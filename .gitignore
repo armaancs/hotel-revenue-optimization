@@ -1,0 +1,7 @@
+# Data files — regenerate with "01 clean and load.py" and run_sql.py
+# (download hotel_bookings.csv from Kaggle: "Hotel Booking Demand")
+*.csv
+*.db
+exports/
+
+__pycache__/
